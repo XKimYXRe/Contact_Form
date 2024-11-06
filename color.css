@@ -1,0 +1,12 @@
+:root{
+    --primary-Green-200-lighter: hsl(148, 38%, 91%);
+    --primary-Green-600-medium: hsl(169, 82%, 27%);
+    --primary-Red: hsl(0, 66%, 54%);
+    --neutral-White: hsl(0, 0%, 100%);
+    --neutral-Grey-500-medium: hsl(186, 15%, 59%);
+    --neutral-Grey-900-darker: hsl(187, 24%, 22%);
+
+    --font-size-labels: 1rem;
+    --font-weight-400: 400;
+    --font-weight-700: 700;
+}
